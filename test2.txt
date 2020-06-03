@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is tested in feature1
+=======
 This is tested in sanjana branch
+>>>>>>> upstream/master
